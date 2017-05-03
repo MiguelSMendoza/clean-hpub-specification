@@ -106,7 +106,7 @@ Para limitar el diseño se especifican a continuación las etiquetas HTML que se
   * ***src***: Ruta relativa a la imagen. Las imágenes deberán encontrarse en la carpeta del apartado.
   * ***alt***: Descripción de la imagen.
   
-  # Extensiones
+# Extensiones
 
 Además de las etiquetas HTML básicas descritas anteriormente, y para aumentar la versatilidad de las publicaciones, se han creado etiquetas específicas para diferentes tipos de material. Algunas de ellas están relacionadas con extensiones externas HTML5 que cambiarán dependiendo de la transformación a realizar.
 
